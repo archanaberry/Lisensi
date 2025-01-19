@@ -1,8 +1,10 @@
 # Lisensi
 Lisensi ku (⁠人⁠ ⁠•͈⁠ᴗ⁠•͈⁠)
+Lihat tabel seberapa ketat fleksibilitas, dari penilaian Lisensi.
+[Ketuk disini](https://github.com/archanaberry/Lisensi/tree/main?tab=License-1-ov-file#)
+---
 
-**Daftar Lisensi Archana Berry**  
-
+# **Daftar Lisensi Archana Berry**  
 ## **Lisensi 1–10: Umum (Publik)**  
 1. **Archana Berry Public License (ABPL)**  
    - **Karakteristik**: Mengizinkan penggunaan, distribusi, dan modifikasi perangkat lunak.  
