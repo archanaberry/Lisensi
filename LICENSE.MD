@@ -1,4 +1,4 @@
-# Tabel penilaian untuk lisensi-lisensi Archana Berry berdasarkan kriteria: ketat, fleksibel, pengharusan kredit, larangan meniru atau menyalin, serta tracing atau cetak ulang.
+## Tabel penilaian untuk lisensi-lisensi Archana Berry berdasarkan kriteria: ketat, fleksibel, pengharusan kredit, larangan meniru atau menyalin, serta tracing atau cetak ulang.
 
 ## Penilaian.
 * 0 Tidak ada
