@@ -1,6 +1,6 @@
 # Lisensi
 
-Lisensi ku (⁠人⁠ ⁠•͈⁠ᴗ⁠•͈⁠)
+Lisensi ku (⁠人⁠ ⁠•͈⁠ᴗ⁠•͈⁠)\n
 Lihat tabel seberapa ketat fleksibilitas, dari penilaian Lisensi.
 [Ketuk disini](https://github.com/archanaberry/Lisensi/tree/main?tab=License-1-ov-file#)
 
