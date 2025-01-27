@@ -5,7 +5,7 @@ Lihat tabel seberapa ketat fleksibilitas, dari penilaian Lisensi.
 [Ketuk disini](https://github.com/archanaberry/Lisensi/tree/main?tab=License-1-ov-file#)
 
 # **Daftar Lisensi Archana Berry**  
-## **Lisensi 1–10: Umum (Publik)**  
+## **Lisensi 1–9: Umum (Publik)**  
 1. **Archana Berry Public License (ABPL)**  
    - **Karakteristik**: Mengizinkan penggunaan, distribusi, dan modifikasi perangkat lunak.  
    - **Perjanjian**: Atribusi wajib kepada pengembang asli, tanpa menghapus nama/logo Archana Berry.  
@@ -31,7 +31,7 @@ Lihat tabel seberapa ketat fleksibilitas, dari penilaian Lisensi.
    - **Perjanjian**: Wajib mencantumkan kredit kepada pengembang asli.  
 
 7. **Archana Berry Open Source License (ABOSL)**  
-   - **Karakteristik**: Mengikat branding Archana Berry OS dalam proyek turunan.  
+   - **Karakteristik**: Mengikat branding Archana Berry dalam proyek turunan.  
    - **Perjanjian**: Perubahan kode harus dilaporkan kepada pengembang utama.  
 
 8. **Archana Berry Research License (ABRL)**  
@@ -40,19 +40,11 @@ Lihat tabel seberapa ketat fleksibilitas, dari penilaian Lisensi.
 
 9. **Archana Berry Educational License (ABEL)**  
     - **Karakteristik**: Digunakan oleh institusi pendidikan untuk pembelajaran dan distribusi terbatas.  
-    - **Perjanjian**: Hanya untuk kegiatan pendidikan.  
-    
-10. **Archana Berry Open Source License (ABOSL)**
-    **Karakteristik**:
-    - Mengikat penggunaan nama dan branding Archana Berry OS dalam proyek turunan dengan syarat melaporkan perubahan kode kepada pengembang utama.
-
-    **Perjanjian**:
-    - Setiap perubahan kode harus dilaporkan kepada pengembang utama.
-
+    - **Perjanjian**: Hanya untuk kegiatan pendidikan. 
 ---
 
-## **Lisensi 11–17: Non-Komersial**  
-11. **Archana Berry Creative Commons License (ABCCL)**  
+## **Lisensi 10–16: Non-Komersial**  
+10. **Archana Berry Creative Commons License (ABCCL)**  
     - **Karakteristik**: Menggunakan lisensi Creative Commons untuk karya non-komersial dengan atribusi.  
     - **Perjanjian**: Atribusi kepada pengembang wajib diberikan.  
 
