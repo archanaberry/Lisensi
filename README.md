@@ -8,11 +8,7 @@ Lihat tabel seberapa ketat fleksibilitas, dari penilaian Lisensi.
 ## **Lisensi 1–9: Umum (Publik)**  
 1. **Archana Berry Public License (ABPL)**  
    - **Karakteristik**: Mengizinkan penggunaan, distribusi, dan modifikasi perangkat lunak.  
-   - **Perjanjian**: Atribusi wajib kepada pengembang asli, tanpa menghapus nama/logo Archana Berry.  
-
-2. **Archana Berry Modified License (ABMIT)**  
-   - **Karakteristik**: Penggunaan perangkat lunak tanpa batasan apa pun.  
-   - **Perjanjian**: Pengguna bertanggung jawab penuh atas penggunaannya.  
+   - **Perjanjian**: Atribusi wajib kepada pengembang asli, tanpa menghapus nama/logo Archana Berry.
 
 3. **Archana Berry Software Distribution License (ABSD)**  
    - **Karakteristik**: Versi mirip dari lisensi BSD tanpa klausa tambahan.  
